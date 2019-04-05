@@ -1,0 +1,4 @@
+find the index of the given number by user and if the nunber is not available raise NumberNotAvailableException. use throws and throw.
+
+Given an index return the value at that index. if index is not available or the value is not available raise indexnot available exception manullay 
+or raise valuenotavailblexec resp. and use try ctach for this with some finally message.

@@ -1,0 +1,8 @@
+create a type for vehicke  | which will get the name at the insitialization and must have three utilities which will inform
+ ne about its gears, engine power and speed limit. 
+ gears must take a  input and always return one added to it.
+ engine should  access the name  of the vehicle and add your name to it.
+ speed limit is 30% less than the gross income of yours provided you earn 1l$
+ 
+finally in all util functions,]call another  utility that prints all the above information at once
+ 
